@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/everythingFragment">
+
+    <fragment
+        android:id="@+id/everythingFragment"
+        android:name="com.example.newsapp.ui.fragments.everything.EverythingFragment"
+        android:label="fragment_everything"
+        tools:layout="@layout/fragment_everything" />
+    <fragment
+        android:id="@+id/topHeadlineFragment2"
+        android:name="com.example.newsapp.ui.fragments.tophead.TopHeadlineFragment"
+        android:label="fragment_top_headline"
+        tools:layout="@layout/fragment_top_headline" />
+    <fragment
+        android:id="@+id/sourceFragment"
+        android:name="com.example.newsapp.ui.fragments.source.SourceFragment"
+        android:label="fragment_source"
+        tools:layout="@layout/fragment_source" />
+</navigation>
