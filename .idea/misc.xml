@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/round_rectangle.xml" value="0.2703125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_everything.xml" value="0.22314814814814815" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_source.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_top_headline.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/layout/item_evreything.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/layout/item_headline.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/layout/item_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/layout/item_source.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NewsApp/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
       </map>

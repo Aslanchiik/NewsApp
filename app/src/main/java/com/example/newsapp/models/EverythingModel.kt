@@ -20,7 +20,7 @@ data class EverythingModel(
     @SerializedName("description")
     val description: String,
 
-    @SerializedName("urlToUImage")
+    @SerializedName("urlToImage")
     val urlToImage: String,
 
     @SerializedName("publishAt")

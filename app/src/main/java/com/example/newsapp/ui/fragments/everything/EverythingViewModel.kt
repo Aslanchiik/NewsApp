@@ -12,7 +12,7 @@ class EverythingViewModel @Inject constructor(
     private val repository: EverythingRepos
 ) : BaseViewModel() {
 
-    fun hiltEverything() = repository.getEverythingList().cachedIn(viewModelScope)
+    fun fetchEverything() = repository.getEverythingList().cachedIn(viewModelScope)
 
 //    fun getEverything() {
 //        viewModelScope.launch {
